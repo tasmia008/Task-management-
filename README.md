@@ -5,6 +5,9 @@
 
 ## Project Video
 - [Link to project video]
+## How to Install
+- [Link to project video]
+## prerequisite
 
 ## Technologies Used
 
