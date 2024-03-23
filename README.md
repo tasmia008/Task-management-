@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Model-View-Controller (MVC) Pattern</title>
+</head>
+<body>
+
 <h2>Problem Management</h2>
 <ul>
     <li>The problem statement outlines the need for a task management system for a rapidly growing software company. The system facilitates collaboration and project workflow management for internal teams and external clients. It should include three types of users: Administrators, Project Managers, and Developers. Administrators are responsible for system configuration, project creation, and user management. Project Managers oversee specific projects, assign developers, and provide project updates. Developers work on assigned projects and provide progress updates. The system includes features such as project creation, dashboard views, project details pages, and login functionality.</li>
@@ -33,6 +42,22 @@
 <ul>
     <li>MySQL</li>
 </ul>
+<h4>Design Pattern Followed</h3>
+<ul>
+    <li>Model-View-Controller (MVC)</li>
+</ul>
+
+<h1>Model-View-Controller (MVC) Pattern</h1>
+
+<p>The Model-View-Controller (MVC) pattern is a software architectural pattern that separates an application into three interconnected components:</p>
+
+<ul>
+    <li><strong>Model</strong> — Represents the data and business logic of the application.</li>
+    <li><strong>View</strong> — Represents the presentation layer of the application.</li>
+    <li><strong>Controller</strong> — Acts as an intermediary between the model and the view.</li>
+</ul>
+
+<p>The primary goal of the MVC pattern is to separate the concerns of the application, making it easier to maintain and modify over time.</p>
 
 <h2>Web Page</h2>
 <ul>
@@ -53,6 +78,8 @@
     <li>Project Details Page: This page allows administrators, project managers, and developers to view project details such as project name, manager, assigned developers, current project status, last updated due date, deadline, completion percentage, and comments. Administrators have the authority to edit all projects, whereas project managers and developers can only view details of the projects they are associated with.</li>
     <img src="https://drive.google.com/uc?export=view&id=1y7X50zOkyI3gYj2gnLezxVZHVZM8QENp" alt="Project Details">
     <li>Project Update Page: Developers can update the project status from this page.</li>
-    <img src="https://drive.google.com/uc?export=view&id=1h15SkETR0s1r7U7eH78pVpYhwTjPHGj9" alt="Update  System">
+    <img src="https://drive.google.com/uc?export=view&id=1h15SkETR0s1r7U7eH78pVpYhwTjPHGj9" alt="Update System">
 </ul>
 
+</body>
+</html>
