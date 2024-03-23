@@ -6,28 +6,35 @@
 ## Project Video
 - [Link to project video]
 ## How to Install
-- [Link to project video]
+- Install XAMPP
+-Install Composer
+-Verify Composer Installation
+-Install Laravel Using Composer
+-Verify Laravel Installation
+-Start The Server
+-Run The Project In  Browser
 ## prerequisite
-
+Basic knowledge of  HTML, CSS, Bootstrap, Javascript, Jquery, and Laravel is needed for this project 
 ## Technologies Used
 
 ### Frontend
-- [List of frontend technologies]
+-  HTML, CSS, Bootstrap, Javascript, Jquery
 
 ### Backend
-- [List of backend technologies]
+- PHP, Laravel
 
 ### Database
-- [List of database technologies]
-
-## Data Flow Diagram (DFD)
-- [Insert DFD image or description]
-
-## Web Page Details
-- [Description of web pages]
+-MySQL
+## Web Page 
+- Login Page
+- Home Page
+- Project Details Page:
+- Project Update Page:
 
 ## Detailed Description of Pages
-- [Detailed description of each page]
+-Login Page: Users must log in using their username and password to access the system.
+-Home Page: Displays a welcoming message "Welcome to the Task Management System."
+-Dashboard Page: This page serves as the central hub for project management activities. Administrators have the capability to create new projects and assign project managers and developers. Project managers can assign existing developers to their projects.
+-Project Details Page: This page allows administrators, project managers, and developers to view project details such as project name, manager, assigned developers, current project status, last updated due date, deadline, completion percentage, and comments. Administrators have the authority to edit all projects, whereas project managers and developers can only view details of the projects they are associated with.
+-Project Update Page: Developers can update the project status from this page.
 
-## Conclusion
-- [Concluding thoughts or summary]
