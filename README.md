@@ -70,6 +70,9 @@
 <h2>Detailed Description of Pages</h2>
 <ul>
     <li>Login Page: Users must log in using their username and password to access the system.</li>
+    </li>=user name: admin@gmail.com</li>
+    </li>password: password.</li>
+
     <img src="https://drive.google.com/uc?export=view&id=1syPiPkMIiX0j4z7oCWYQYssiH1qe7S7F" alt="Log In"> 
     
    <li>Home Page: Displays a welcoming message "Welcome to the Task Management System."</li>
