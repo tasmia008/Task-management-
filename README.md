@@ -42,7 +42,7 @@
 <ul>
     <li>MySQL</li>
 </ul>
-<h4>Design Pattern Followed</h4>
+<h2>Design Pattern Followed</h2>
 <ul>
     <li>Model-View-Controller (MVC)</li>
 </ul>
